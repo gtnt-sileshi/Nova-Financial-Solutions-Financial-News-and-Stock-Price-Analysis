@@ -198,9 +198,4 @@ Feel free to modify and distribute the code as per your needs.
 
 ---
 
-**Contact Information:**  
-If you have any questions or issues, reach out to [your email/contact info].
-
----
-
 Happy analyzing! 📊
