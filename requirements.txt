@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+textblob
+TA-Lib
+yfinance
+plotly
+wordcloud

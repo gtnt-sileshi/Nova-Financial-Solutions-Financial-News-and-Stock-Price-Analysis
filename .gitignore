@@ -1,0 +1,20 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Data files
+data/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Other system files
+.DS_Store
+Thumbs.db
