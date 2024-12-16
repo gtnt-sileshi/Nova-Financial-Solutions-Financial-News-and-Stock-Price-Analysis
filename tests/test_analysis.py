@@ -1,11 +1,10 @@
 import unittest
-from src.data_loader import load_news_data, load_stock_data
-from src.sentiment_analysis import sentiment_analysis
+from scripts.descriptive_statistics import articles_per_publisher, basic_statistics
 
-def test_load_news_data():
+def test_descriptive_statistics():
     # Placeholder for testing the load_news_data function
     pass
 
-def test_sentiment_analysis():
+def test_basic_statistics():
     # Placeholder for testing sentiment analysis logic
     pass
