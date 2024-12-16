@@ -6,3 +6,6 @@ TA-Lib
 yfinance
 plotly
 wordcloud
+pynance
+setuptools
+nbconvert
